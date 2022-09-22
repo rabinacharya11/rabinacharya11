@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **impactful projects**
 
-- 👨‍💻 All of my projects are available at [www.rabin.name.np](www.rabin.name.np)
+- 👨‍💻 All of my projects are available at [http://rabin.name.np/](www.rabin.name.np)
 
 - 💬 Ask me about **Flutter and Dart.**
 
