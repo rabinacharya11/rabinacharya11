@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_rab_in" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rab_in?logo=twitter&style=for-the-badge" alt="i_am_rab_in" /></a> </p>
 
-- 🔭 I’m currently working at **Dikshalaya**
+- 🔭 I’m currently working as Freelancer
 
 - 👯 I’m looking to collaborate on **impactful projects**
 
