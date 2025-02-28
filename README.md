@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rabindeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/rabindeveloper?logo=twitter&style=for-the-badge" alt="rabindeveloper" /></a> </p>
 
-- 🔭 I’m currently working as a Flutter Developer in **Matin Softech**
+- 🔭 I’m currently working as a Flutter Developer in **Code Griha**
 
 - 👯 I’m looking to collaborate on **impactful projects**
 
